@@ -16,6 +16,8 @@
 
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 .navbar, .home-callout, .container-fluid {
     background: #2BC0E4; /* fallback for old browsers */
